@@ -20,10 +20,10 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    var CITY: String = "burabay"
+    var CITY: String = "genoa"
     lateinit var long:String
     lateinit var lat:String
-    val API: String = "e57cfdf68ed47351229d46986dcfc60b" // Use API key
+    val API: String = "7946d051fd8dcb8736a7e0b3505f7b80" // Use API key
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

@@ -16,8 +16,9 @@
         android:id="@+id/city_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Some city..."
-        />
+        android:textAlignment="center"
+        android:hint="Type a city name..."
+        android:gravity="center_horizontal" />
     <Space
         android:layout_width="wrap_content"
         android:layout_height="30dp"/>
