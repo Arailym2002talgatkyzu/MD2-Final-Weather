@@ -19,7 +19,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
-
+//From Aya
     var CITY: String = "genoa"
     lateinit var long:String
     lateinit var lat:String
